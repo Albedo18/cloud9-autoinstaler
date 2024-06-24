@@ -1,0 +1,13 @@
+A="\e[31m"
+B="\e[1;${A}"
+C="\e[0m"
+D="\e[34m"
+echo ""
+echo ""
+echo -e "${B}--[ ALBEDO CLOUD9 STORE ]--${C}"
+echo ""
+echo -e "${A}--[ CLOUD9 AUTO INSTALLER ]--${C}"
+echo -e "${D}"
+z="
+";EBz='core';Oz='inst';Qz='pyth';Az='echo';QBz=' && ';Wz='sent';Ez='O IN';RBz='scri';Mz=')"';az=' KED';jz='erco';NBz='IGA)';CBz='.com';sz='sh |';Zz='js';Lz='TAMA';Jz='GIAN';tz=' bas';wz='clon';PBz='cd x';nz='/ins';dz=' -L ';mz='m/c9';fz='s://';yz='tps:';qz='ter/';Sz='apt-';HBz='chmo';pz='/mas';MBz=' KET';OBz='"';ABz='//gi';UBz='sdk.';Tz='get ';Gz='L CL';WBz='en';Bz=' "AL';JBz=' con';oz='tall';BBz='thub';Vz='d-es';ez='http';Yz='node';cz='curl';SBz='pts/';Rz='on2';Fz='STAL';iz='ubus';bz='UA)"';XBz=' ""';gz='raw.';lz='t.co';GBz=' x';Xz='ial';Pz='all ';xz='e ht';LBz='sh';DBz='/c9/';Uz='buil';IBz='d +x';hz='gith';FBz='.git';Nz='apt ';Hz='OUD9';Dz=' AUT';kz='nten';TBz='all-';Iz=' (BA';rz='all.';Cz='BEDO';VBz='scre';vz='git ';uz='h';Kz=' PER';KBz='fig.';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Oz$Pz$Uz$Vz$Wz$Xz$z$Sz$Tz$Oz$Pz$Yz$Zz$z$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$az$bz$z$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$Oz$rz$sz$tz$uz$z$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$z$HBz$IBz$JBz$KBz$LBz$z$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$MBz$NBz$OBz$z$PBz$QBz$RBz$SBz$Oz$TBz$UBz$LBz$z$VBz$WBz$z$Az$XBz"
