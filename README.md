@@ -5,9 +5,9 @@ cd cloud9 <p>
 chmod +x albedo-install.sh <p>
 ./albedo-install.sh <p>
 
-kalo sudah selesai, otomatis clear screen. lanjut <p>
+kalo sudah selesai, otomatis clear screen<br>
+kalo discreen muncil blablabla, tekan enter aja.. oke lanjut <p>
 
-cd /root/cloud9 <p>
 chmod +x albedo-config.sh <p>
 ./albedo-config.sh <p>
 nanti disuruh masukkan username,password,folder,port cloud9
