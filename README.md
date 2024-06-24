@@ -10,4 +10,6 @@ kalo sudah selesai, otomatis clear screen. lanjut <p>
 chmod +x albedo-config.sh <p>
 ./albedo-config.sh <p>
 nanti disuruh masukkan username,password,folder,port cloud9
-jika sudah selesai, close terminal
+jika sudah selesai, close terminal <p>
+
+https://t.me/+oLOLPm9-FWM4ZGVl
