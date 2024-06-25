@@ -1,3 +1,6 @@
+#SYSTEM REQUIRED <p>
+UBUNTU 20.04 LTS
+
 #CARA PAKAI <p>
 masuk terminal,clone repo <p>
 ( git clone https://github.com/Albedo18/cloud9-autoinstaler.git cloud9 )<p>
