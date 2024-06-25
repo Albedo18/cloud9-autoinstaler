@@ -9,7 +9,7 @@ chmod +x albedo-install.sh <p>
 ./albedo-install.sh <p>
 
 kalo sudah selesai, otomatis clear screen<br>
-kalo discreen muncil blablabla, tekan enter aja.. oke lanjut <p>
+kalo discreen muncul blablabla, tekan enter aja.. oke lanjut <p>
 
 cd ~ <br>
 cd cloud9 <br>
