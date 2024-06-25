@@ -12,9 +12,13 @@
 
 #kalo sudah selesai, otomatis clear screen<br>
 #kalo discreen muncul blablabla, tekan enter aja.. oke lanjut <p>
+#dibawah ada 2 pilihan untuk root/user <p>
 
 "cd ~" (untuk root ssh)<p>
 "cd /home/-username-/cloud9" (untuk user ssh | ubah -username- menjadi user ssh mu yang lu pake buat login putty/termius)<p>
+<p>
+  #jgn salah pilih inget! 
+</p>
 "cd cloud9"<p>
 "sudo bash albedo-create.sh"<p>
 
