@@ -8,17 +8,15 @@
 "sudo apt update" <p>
 "git clone https://github.com/Albedo18/cloud9-autoinstaler.git cloud9"<p>
 "cd cloud9" <p> 
-"chmod +x albedo-install.sh" <p>
-"sudo ./albedo-install.sh" <p>
+"sudo bash albedo-install.sh" <p>
 
 #kalo sudah selesai, otomatis clear screen<br>
 #kalo discreen muncul blablabla, tekan enter aja.. oke lanjut <p>
 
 "cd ~" (untuk root ssh)<p>
 "cd /home/-username-/cloud9" (untuk user ssh | ubah -username- menjadi user ssh mu yang lu pake buat login putty/termius)<p>
-"cd cloud9"<br>
-"chmod +x albedo-create.sh" <p>
-"sudo ./albedo-create.sh"<p>
+"cd cloud9"<p>
+"sudo bash albedo-create.sh"<p>
 
 #nanti disuruh masukkan username,password,ip,port,folder buat setup cloud9<br
 #jika sudah selesai, close terminal <p>
