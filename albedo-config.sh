@@ -2,14 +2,12 @@ A="\e[31m"
 B="\e[1;${A}"
 C="\e[0m"
 D="\e[34m"
-
 echo ""
 echo ""
 echo -e "${B}--[ ALBEDO CLOUD9 STORE ]--${C}"
 echo ""
 echo -e "${A}--[ AUTO CONFIG ]--${C}"
 echo -e "${D}"
-
 z="
-";mz=' clo';iz=' POR';QBz=':$PA';Gz='erna';uz='ja c';jz>
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$z$Az>
+";mz=' clo';iz=' POR';QBz=':$PA';Gz='erna';uz='ja c';jz='T_C9';PBz='NAME';HBz=' x/s';ABz=' SIA';DBz='I NJ';qz='k ng';az='ps/s';Lz=' USE';oz='(kal';kz=' "FO';TBz='ome/';Dz='ME b';Wz='D';WBz='FOLD';Fz=' (us';MBz='$IP ';Nz='E';cz='r):"';Vz='SWOR';UBz='ALBE';Oz=' "PA';wz='DER';KBz='$POR';gz=' (po';ez=' "PO';RBz='RD -';fz='RT b';Hz='me c';bz='erve';Iz='loud';Rz=' (pa';Uz=' PAS';rz='erti';Bz=' "US';XBz='ER';dz=' IP';lz='LDER';xz=' "CL';Sz='sswo';FBz='!"';Mz='RNAM';NBz='-a $';OBz='USER';Jz='9):"';CBz='PAKA';hz='rt c';LBz=' -l ';Zz='ip v';BBz='P DI';Kz='read';sz=' tul';EBz='ING!';pz='o ga';JBz=' -p ';vz=' FOL';yz='OUD9';Az='echo';Xz=' "IP';Qz='RD b';VBz='DO-$';Pz='SSWO';SBz='w /h';Tz='rd c';tz='is a';nz='ud9:';Ez='aru:';IBz='r.js';GBz='node';Yz=' : (';Cz='ERNA';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$z$Az$Oz$Pz$Qz$Ez$Rz$Sz$Tz$Iz$Jz$z$Kz$Uz$Vz$Wz$z$Az$Xz$Yz$Zz$az$bz$cz$z$Kz$dz$z$Az$ez$fz$Ez$gz$hz$Iz$Jz$z$Kz$iz$jz$z$Az$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$Iz$Jz$z$Kz$vz$wz$z$Az$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$GBz$HBz$bz$IBz$JBz$KBz$jz$LBz$MBz$NBz$OBz$PBz$QBz$Pz$RBz$SBz$TBz$UBz$VBz$WBz$XBz"
