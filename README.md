@@ -14,9 +14,9 @@ kalo discreen muncul blablabla, tekan enter aja.. oke lanjut <p>
 
 cd ~ <br>
 cd cloud9 <br>
-chmod +x albedo-config.sh <p>
-./albedo-config.sh <p>
-nanti disuruh masukkan username,password,folder,port cloud9
+chmod +x albedo-create.sh <p>
+./albedo-create.sh <p>
+nanti disuruh masukkan username,password,ip,port,folder buat setup cloud9
 jika sudah selesai, close terminal <p>
 
 #TUTORIAL VIDEO
