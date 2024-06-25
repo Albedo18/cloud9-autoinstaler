@@ -4,6 +4,7 @@ UBUNTU 20.04 LTS
 
 #CARA PAKAI <p>
 masuk terminal,clone repo <p>
+sudo apt update <br>
 ( git clone https://github.com/Albedo18/cloud9-autoinstaler.git cloud9 )<p>
 cd cloud9 <p> 
 chmod +x albedo-install.sh <p>
